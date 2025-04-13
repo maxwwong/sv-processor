@@ -1,0 +1,20 @@
+# Build output
+build/
+obj_dir/
+*.vcd
+
+# Editor junk
+*.swp
+*.DS_Store
+
+# Verilator output
+*.d
+*.o
+*.log
+*.vcd
+*.vpd
+*.vpi
+*.vlt
+
+# Misc
+logs/
