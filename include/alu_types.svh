@@ -4,10 +4,11 @@ typedef enum {
     And,
     Or,
     Xor,
-    Not,
     Sll,
     Sra,
     Srl,
     Eq,
-    Neq
+    Neq,
+    Slt,
+    Sltu
 } alu_ops;
